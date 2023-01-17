@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meg-div" alt="meg-div" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Meg-Div](https://github.com/Meg-Div)
+- 👨‍💻 My Projects: [https://github.com/Meg-Div](https://github.com/Meg-Div)
 
-- 📝 I regularly write articles on [https://dev.to/megdiv](https://dev.to/megdiv)
+- 📝 My Articles: [https://dev.to/megdiv](https://dev.to/megdiv)
 
-- 📫 How to reach me **meganDivringi@gmail.com**
-
-- 📄 Know about my experiences [https://meg-div.github.io/Meg_Divringi.pdf](https://meg-div.github.io/Meg_Divringi.pdf)
+- 📄 My Resume: [https://meg-div.github.io/Meg_Divringi.pdf](https://meg-div.github.io/Meg_Divringi.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
