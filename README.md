@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meg-div" alt="meg-div" /></a> </p>
 
-- 👨‍💻 [My Projects](https://github.com/Meg-Div)
+- 👨‍🍳 [Projects](https://github.com/Meg-Div)
 
-- 📝 [My Articles](https://dev.to/megdiv)
+- ✍️ [Articles](https://dev.to/megdiv)
 
-- 📄 [My Resume](https://meg-div.github.io/Meg_Divringi.pdf)
+- 📄 [Resume](https://meg-div.github.io/Meg_Divringi.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
