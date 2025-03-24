@@ -5,31 +5,34 @@
 <div align="center">
 <img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
 <br>
-
-<!-- GitHub trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=meg-div" alt="meg-div" />
-</a>
-</p> 
-
-<!-- Contact info -->
-👩‍💻 [Projects](https://github.com/Meg-Div) &nbsp; 📄 [Resume](https://meg-div.github.io/Meg_Divringi.pdf) &nbsp; ✍️ [Articles](https://dev.to/megdiv) &nbsp; 
 <br>
+  
+<!-- Contact info -->
+
+<h3 align="center">
+    👩‍💻 <a href="https://github.com/Meg-Div">Projects</a> &nbsp; 
+    📄 <a href="https://meg-div.github.io/Meg_Divringi.pdf">Resume</a> &nbsp; 
+    :open_file_folder: <a href="https://meg-div.github.io/">Portfolio</a>
+</h3>
 
 </div>
 
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+
+<p align="center">
+  <!-- Linkedin -->
+  <a href="https://linkedin.com/in/megdivringi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megdivringi" height="30" width="40" />
+  </a>
+</p>
+
+<p align="center">
   
   <!-- Dev.to -->
   <a href="https://dev.to/megdiv" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="megdiv" height="30" width="40" />
-  </a>
-  
-  <!-- Linkedin -->
-  <a href="https://linkedin.com/in/megdivringi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megdivringi" height="30" width="40" />
   </a>
   
   <!-- Stack Overflow -->
@@ -110,3 +113,11 @@
   </a>
   
 </p>
+
+<!--- Old Info
+
+GitHub trophies
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=meg-div" alt="meg-div" />
+</a>
+</p> -->
